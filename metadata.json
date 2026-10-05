@@ -1,0 +1,6 @@
+{
+  "name": "Rentora - Apartment Browsing & Landlord Connect",
+  "description": "Seamless Ethiopian apartment browsing platform connecting renters and landlords with direct communication, zero broker fees, freemium listing monetization, and Google Sheets integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
